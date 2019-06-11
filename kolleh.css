@@ -1,0 +1,56 @@
+@charset "utf-8";
+.header {
+	background-color:black;
+	padding: 5px;
+	float: none;
+	height: 100px;
+	width: auto;
+}
+.left {
+	background-color: black;
+	padding: 5px;
+	float: left;
+	height: 600px;
+	width: 100px;
+}
+ li {
+	list-style: none;
+	float: left;
+	margin-left: 40px
+	
+	
+	
+	}
+.right {
+	background-color:black;
+	padding: 5px;
+	float: right;
+	height: 600px;
+	width: 100px;
+}
+.center {
+	background-color:white;
+	margin:10px;
+	padding: 5px;
+	height:;
+	width: auto;
+}
+.footer {
+	background-color:black;
+	padding: 5px;
+	height: 100px;
+	width:auto;
+}
+.header div {
+	font-family: Tahoma, Geneva, sans-serif;
+}
+
+
+.head {
+	background-color:lightgreen;
+	margin: 5px;
+	padding: 5px;
+	height:30px;
+	width:aotopx;
+	
+}
